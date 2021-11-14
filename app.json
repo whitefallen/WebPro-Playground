@@ -1,7 +1,7 @@
 {
     "name": "PHP Lumen Sample",
     "description": "A PHP app using Lumen",
-    "repository": "https://github.com/heroku/node-js-getting-started",
-    "logo": "https://node-js-sample.herokuapp.com/node.png",
+    "repository": "https://github.com/whitefallen/WebPro-Playground",
+    "logo": "https://hidden-island-59284.herokuapp.com/",
     "keywords": ["php", "lumen", "server"]
 }
