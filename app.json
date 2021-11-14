@@ -1,0 +1,7 @@
+{
+    "name": "PHP Lumen Sample",
+    "description": "A PHP app using Lumen",
+    "repository": "https://github.com/heroku/node-js-getting-started",
+    "logo": "https://node-js-sample.herokuapp.com/node.png",
+    "keywords": ["php", "lumen", "server"]
+}
