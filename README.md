@@ -2,4 +2,6 @@
 
 Anhemen von Form-Parametern via PHP-Lumen mittels POST "https://hidden-island-59284.herokuapp.com/"
 
-Parameters "vorname" und "nachname"
+`POST: /` - Parameters "vorname" und "nachname".
+
+`POST /check` Zeigt alle Parameter mit ihren übermittelten Werten an.
