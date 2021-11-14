@@ -17,3 +17,4 @@ $router->get('/', function () use ($router) {
     return "Willkommen zum WebPro-Spielplatz";
 });
 $router->post('/', 'PostController@handlePost');
+$router->post('/check', 'PostController@checkPost');

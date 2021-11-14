@@ -22,4 +22,7 @@ class PostController extends Controller
         }
         return view('PostView', ["vorname" => $params["vorname"], "nachname" => $params["nachname"]]);
     }
+    public function checkPost(Request $request) {
+        return view('CheckPostView', ['data' => $request->post()]);
+    }
 }
